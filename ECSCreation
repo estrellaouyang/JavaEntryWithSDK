@@ -15,8 +15,8 @@ public class testCreation {
         // 创建DefaultAcsClient实例并初始化
         DefaultProfile profile = DefaultProfile.getProfile(
             "cn-hangzhou",                     // 您的可用区ID
-            "LTAI96smm3oSrSMN",             // 您的AccessKey ID
-            "C06yGJs8lupkNeqEHXtasT6tMy9tSP");        // 您的AccessKey Secret
+            "****",             // 您的AccessKey ID
+            "****");        // 您的AccessKey Secret
         
         IAcsClient client = new DefaultAcsClient(profile);
         // 创建API请求并设置参数
