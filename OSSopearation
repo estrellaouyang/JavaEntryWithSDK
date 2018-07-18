@@ -17,8 +17,8 @@ import com.aliyuncs.profile.DefaultProfile;
 public class OSS  {
     public static void main(String[] args) {
     	String endpoint = "http://oss-cn-hongkong.aliyuncs.com";
-    	String accessKeyId = "LTAI96smm3oSrSMN";
-    	String accessKeySecret = "C06yGJs8lupkNeqEHXtasT6tMy9tSP";
+    	String accessKeyId = "****";
+    	String accessKeySecret = "****";
     	String bucketName = "qianqianram";
     	String objectName = "TT";
     	
